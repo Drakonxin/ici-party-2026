@@ -11,3 +11,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Nicolás Bravo
 * Maximo Adriazola
 * Leandro Barrera
+* Jose Tomas Baladron
